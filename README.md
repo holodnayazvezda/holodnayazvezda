@@ -15,4 +15,4 @@ Backend Developer / ML Developer & Researcher
 ## Education
 
 - Lyceum No. 393 — Saint Petersburg
-- ITMO University — Applied Mathematics and Informatics (AMI), [AI360: ML Native](https://www.top.ai.itmo.ru/ai360)
+- ITMO University — CT (AI360)
