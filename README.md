@@ -1,7 +1,5 @@
 # Daniil Makeev
 
-Backend Developer / ML Developer & Researcher
-
 ## Achievements
 
 - Winner of the National Technology Olympiad (Business Process Automation)
