@@ -14,8 +14,11 @@
 
 - Lyceum No. 393 — Saint Petersburg
 - ITMO University — CT (AI360)
+
+### Courses
+
 - Yandex Lyceum (Python, Industrial Programming)
 - Samsung IT School (Java, Android)
 - ITMO (Olympiad Informatics)
 - Sirius (Algorithms and Data Analysis)
-- Academy of Digital Technologies (Mobile Development PRO)
+- Academy of Digital Technologies (Mobile and Backend Development)
