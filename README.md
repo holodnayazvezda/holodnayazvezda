@@ -1,24 +1,26 @@
-# Daniil Makeev
+# Даниил Макеев
 
-## Achievements
+Бэкенд-разработчик / разработчик и исследователь в области машинного обучения
 
-- Winner of the National Technology Olympiad (Business Process Automation)
-- Prize winner of the National Technology Olympiad (Mobile Development, Big Data and Machine Learning)
-- Prize winner of the Higher School of Economics Olympiad in Informatics
-- Prize winner of the Gazprom Olympiad in Informatics
-- Silver medalist of the regional “Professionals” championship (Mobile Development)
-- Winner of the PROD Hackathon
-- Winner of the DANO Hackathon
+## Достижения
 
-## Education
+- Победитель НТО (Автоматизация бизнес-процессов)
+- Призёр НТО (Мобильная разработка, Большие данные и машинное обучение)
+- Призёр Высшей пробы по информатике
+- Призёр олимпиады Газпром по информатике
+- Серебряная медаль регионального чемпионата «Профессионалы» (мобильная разработка)
+- Победитель хакатона PROD
+- Победитель хакатона DANO
 
-- Lyceum No. 393 — Saint Petersburg
-- ITMO University — CT (AI360)
+## Образование
 
-### Courses
+- Лицей №393 — Санкт-Петербург
+- Университет ИТМО — КТ (AI360)
 
-- Yandex Lyceum (Python, Industrial Programming)
-- Samsung IT School (Java, Android)
-- ITMO (Olympiad Informatics)
-- Sirius (Algorithms and Data Analysis)
-- Academy of Digital Technologies (Mobile and Backend Development)
+### Курсы
+
+- Яндекс Лицей (Python, промышленная разработка)
+- ИТ-школа Samsung (Java, Android)
+- ИТМО (олимпиадная информатика)
+- Сириус (алгоритмы и анализ данных)
+- Академия цифровых технологий (мобильная и бэкенд-разработка)
